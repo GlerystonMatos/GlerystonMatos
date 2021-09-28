@@ -18,6 +18,7 @@ My name is Gleryston Matos, I'm currently a technical leader at Fortes Tecnologi
 ![ReactNative](https://img.shields.io/twitter/url?color=grey&label=React%20Native&logo=React&style=flat-square&url=https%3A%2F%2Freactnative.dev%2F)
 ![GIT](https://img.shields.io/twitter/url?color=grey&label=Git&logo=git&style=flat-square&url=https%3A%2F%2Fgit-scm.com%2F)
 ![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=GitHub&logo=GitHUb&style=flat-square&url=https%3A%2F%2Fwww.typescriptlang.org%2F)
+![Docker](https://img.shields.io/twitter/url?color=grey&label=Docker&logo=Docker&style=flat-square&url=https%3A%2F%2Fwww.docker.com%2F)
 
 
 <!--
