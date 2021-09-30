@@ -22,7 +22,7 @@ My name is Gleryston Matos, I'm currently a technical leader at Fortes Tecnologi
 
 ## Statistics: ⚡
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=glerystonmatos&theme=discord_old_blurple"/>
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=glerystonmatos&theme=discord_old_blurple"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glerystonmatos&layout=compact&theme=discord_old_blurple" />
 
 <!--
