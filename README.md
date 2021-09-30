@@ -20,6 +20,10 @@ My name is Gleryston Matos, I'm currently a technical leader at Fortes Tecnologi
 ![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=GitHub&logo=GitHUb&style=flat-square&url=https%3A%2F%2Fwww.typescriptlang.org%2F)
 ![Docker](https://img.shields.io/twitter/url?color=grey&label=Docker&logo=Docker&style=flat-square&url=https%3A%2F%2Fwww.docker.com%2F)
 
+## Statistics: ⚡
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=glerystonmatos&theme=discord_old_blurple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glerystonmatos&layout=compact&theme=discord_old_blurple" />
 
 <!--
 **GlerystonMatos/GlerystonMatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
