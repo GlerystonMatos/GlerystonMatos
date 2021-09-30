@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Gleryston Matos, I'm currently a technical leader at Fortes Tecnologia, I've been working in the area of analysis and software development for +7 years, I'm an organizing member of the DUG-CE, a writer in my spare time and I'm always looking to share and learn new ones knowledge.
+My name is Gleryston Matos, I'm currently a technical leader at Fortes Tecnologia, I've been working in the area of analysis and software development for +8 years, I'm an organizing member of the DUG-CE, a writer in my spare time and I'm always looking to share and learn new ones knowledge.
 
 ![Twitter](https://img.shields.io/twitter/url?color=blue&label=%40MatosGleryston&logo=Twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FMatosGleryston)
 ![LinkedIn](https://img.shields.io/twitter/url?color=blue&label=GlerystonMatos&logo=LinkedIn&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fglerystonmatos%2F)
