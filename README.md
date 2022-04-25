@@ -27,8 +27,8 @@ I am the founder of an organization called [rxcrud](https://github.com/rxcrud), 
 ## Statistics: ⚡
 
 <div style="display: flex;">
-  <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=glerystonmatos&theme=discord_old_blurple"/>
-  <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glerystonmatos&layout=compact&theme=discord_old_blurple" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=glerystonmatos&theme=discord_old_blurple"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glerystonmatos&layout=compact&theme=discord_old_blurple" />
 </div>
 
 <!--
