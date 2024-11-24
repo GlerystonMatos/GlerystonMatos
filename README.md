@@ -20,10 +20,6 @@ My name is Gleryston Matos, I'm currently a technical leader at Fortes Tecnologi
 ![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=GitHub&logo=GitHUb&style=flat-square&url=https%3A%2F%2Fwww.typescriptlang.org%2F)
 ![Docker](https://img.shields.io/twitter/url?color=grey&label=Docker&logo=Docker&style=flat-square&url=https%3A%2F%2Fwww.docker.com%2F)
 
-## Open source projects: 🚧
-
-I am the founder of an organization called [rxcrud](https://github.com/rxcrud), where I provide projects with a base structure for creating projects in a more agile way, in addition to the base projects I created a project called rxlib-react, an open source react component library used in the organization's projects.
-
 ## Statistics: ⚡
 
 <div style="display: flex;">
