@@ -10,7 +10,6 @@
 
 </div>
 
----
 ## 🧑‍💻 Sobre mim
 
 Sou **Líder Técnico e Desenvolvedor de Software**, com **mais de 13 anos de experiência** na construção, evolução e manutenção de sistemas.
@@ -18,8 +17,6 @@ Sou **Líder Técnico e Desenvolvedor de Software**, com **mais de 13 anos de ex
 Minha trajetória combina desenvolvimento hands-on, arquitetura de software, análise técnica e liderança de equipes. Tenho experiência especialmente com **Delphi, C#/.NET, React, TypeScript, bancos de dados relacionais, APIs, Docker, Git, AWS e GCP**.
 
 > 💡 **Meu foco:** construir software que seja compreensível, sustentável e preparado para evoluir.
-
----
 
 <details>
 <summary>🚀 <strong>Conhecimentos & Tecnologias</strong></summary>
@@ -167,10 +164,6 @@ Leadership    Technical Leadership • Mentoring
 
 </details>
 
----
-
----
-
 ## 📫 Vamos conversar?
 
 <div align="center">
@@ -179,8 +172,6 @@ Leadership    Technical Leadership • Mentoring
 [![GitHub](https://img.shields.io/badge/GitHub-Siga%20meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GlerystonMatos)
 
 </div>
-
----
 
 <div align="center">
 
